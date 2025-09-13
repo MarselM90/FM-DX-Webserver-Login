@@ -19,11 +19,6 @@ This plugin adds a **beautiful login form with “Remember Me” functionality**
 
 1. Place the plugin JS file in your FM-DX WebServer plugin folder.  
 2. Include the script in your web interface page (before `</body>`):  
-
-```html
-<script src="path/to/login-plugin.js"></script>
-```
-
 3. Open the FM-DX WebServer interface in your browser. The login overlay should appear automatically.
 
 ---
@@ -64,7 +59,8 @@ You can easily modify:
 
 ## Screenshots
 
-![Login Overlay](https://via.placeholder.com/400x250.png?text=FM-DX+Login+Plugin)
+![autentificare](https://github.com/user-attachments/assets/08187d93-c125-481d-a173-97d919320d85)
+
 
 ---
 
@@ -74,14 +70,5 @@ MIT License — you are free to use, modify, and distribute this plugin.
 
 ---
 
-## Credits
 
-- **Plugin Development:** Your Name  
-- **Technical Assistance & JS Design Guidance:** ChatGPT (OpenAI GPT-5 Mini)  
-
----
-
-## Contact
-
-For issues or feature requests, open a GitHub issue in this repository.
 
